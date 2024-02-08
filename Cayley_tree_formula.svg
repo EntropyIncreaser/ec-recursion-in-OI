@@ -1,0 +1,411 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Mon Oct 20 22:24:11 2008 -->
+<!-- Magnification: 1.050 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="9.5in" height="6.8in" viewBox="190 190 11430 8123">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="1653" y="236" width="944" height="1653" rx="0" 
+style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="236" y="236" width="944" height="944" rx="0" 
+style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="3070" y="236" width="2362" height="2362" rx="0" 
+style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="236" y="2834" width="11338" height="5433" rx="0" 
+style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line -->
+<polyline points="11102,3307
+11102,5433
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="10157,3307
+10157,5433
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="9212,3307
+9212,5433
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="8267,3307
+8267,5433
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7322,3307
+7322,5433
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6377,3307
+6377,5433
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5433,3307
+5433,5433
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4488,3307
+4488,5433
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3543,3307
+3543,5433
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2598,3307
+2598,5433
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="1653,3307
+1653,5433
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="708,3307
+708,5433
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3070,7086
+3070,7795
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2598,6377
+3070,7086
+3543,6377
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4960,7086
+4960,7795
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4488,6377
+4960,7086
+5433,6377
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6850,7086
+6850,7795
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6377,6377
+6850,7086
+7322,6377
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="8740,7086
+8740,7795
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="8267,6377
+8740,7086
+9212,6377
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3543,708
+3543,2125
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4251,708
+4251,2125
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4960,708
+4960,2125
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2125,708
+2125,1417
+" style="stroke:#000000;stroke-width:48;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#0000ff;
+"/>
+<!-- Circle -->
+<circle cx="11102" cy="4724" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="10157" cy="5433" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="9212" cy="5433" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="8267" cy="4724" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="7322" cy="3307" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="6377" cy="3307" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="5433" cy="4724" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="4488" cy="5433" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="3543" cy="5433" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="2598" cy="4724" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="1653" cy="4015" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="708" cy="4015" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="708" cy="3307" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="1653" cy="3307" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="2598" cy="3307" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="3543" cy="3307" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="4488" cy="3307" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="5433" cy="3307" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="6377" cy="4015" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="7322" cy="4015" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="8267" cy="4015" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="9212" cy="4015" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="10157" cy="4015" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="11102" cy="4015" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="708" cy="4724" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="1653" cy="5433" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="2598" cy="4015" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="3543" cy="4015" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="4488" cy="4724" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="5433" cy="5433" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="6377" cy="4724" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="7322" cy="5433" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="8267" cy="3307" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="9212" cy="3307" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="10157" cy="4724" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="11102" cy="5433" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="708" cy="5433" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="1653" cy="4724" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="2598" cy="5433" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="3543" cy="4724" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="4488" cy="4015" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="5433" cy="4015" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="6377" cy="5433" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="7322" cy="4724" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="8267" cy="5433" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="9212" cy="4724" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="10157" cy="3307" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="11102" cy="3307" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="3070" cy="7086" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="4960" cy="7795" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="8740" cy="7795" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="4960" cy="7086" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="3070" cy="7795" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="6377" cy="6377" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="8267" cy="6377" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="6850" cy="7795" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="8740" cy="7086" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="3543" cy="6377" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="5433" cy="6377" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="7322" cy="6377" r="236"
+ style="fill:#ffff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="9212" cy="6377" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="6850" cy="7086" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="4488" cy="6377" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="2598" cy="6377" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="3543" cy="708" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="4251" cy="708" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="3543" cy="1417" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="4251" cy="2125" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="3543" cy="2125" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="4251" cy="1417" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="4960" cy="1417" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="4960" cy="708" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="4960" cy="2125" r="236"
+ style="fill:#00ff00;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="708" cy="708" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="2125" cy="1417" r="236"
+ style="fill:#0000ff;stroke:#000000;stroke-width:48;"/>
+<!-- Circle -->
+<circle cx="2125" cy="708" r="236"
+ style="fill:#ff0000;stroke:#000000;stroke-width:48;"/>
+</g>
+</svg>
